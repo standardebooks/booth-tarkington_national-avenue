@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/booth-tarkington/national-avenue</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-01-06T20:32:51Z</dc:date>
+		<meta property="dcterms:modified">2021-01-06T20:32:51Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,16 +42,18 @@
 		<meta id="collection-1" property="belongs-to-collection">Growth Trilogy</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">3</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A businessman struggles to bring the modernity of the suburban industrial age to a Midwestern town.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;National Avenue&lt;/i&gt;, originally titled &lt;i&gt;The Midlander&lt;/i&gt;, is &lt;a href="https://standardebooks.org/ebooks/booth-tarkington"&gt;Booth Tarkington’s&lt;/a&gt; final entry in his &lt;a href="https://standardebooks.org/collections/growth-trilogy"&gt;Growth Trilogy&lt;/a&gt;. Like the previous entries in the series, &lt;i&gt;National Avenue&lt;/i&gt; addresses the rapid industrialization of small-town America at the turn of the century, and the socioeconomic changes that such change brings with it.&lt;/p&gt;
+			&lt;p&gt;Dan Oliphant and his brother Harlan are the children of a wealthy small-town businessman. Harlan is a traditional upper-class man—affecting an accent, dressing for dinner, and contemplating beauty and culture—while Dan is boisterous and lively, eager to do big things. Dan sees the rise of industry in America’s east as a harbinger for his own Midwestern town, and sets his mind on building an industrial suburb, Ornaby Addition, next to his city’s downtown.&lt;/p&gt;
+			&lt;p&gt;Dan’s idea is met with scorn and mockery from not only his family, but also his fellow townspeople. Dan persists nonetheless, and soon the town must contend with his dream becoming a reality: noisy cars, smoky factories, huge, unappealing buildings, and the destruction of the nature and environment become the new normal as Dan’s industrial dream is realized.&lt;/p&gt;
+			&lt;p&gt;Where &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/booth-tarkington/the-turmoil"&gt;The Turmoil&lt;/a&gt;&lt;/i&gt; focuses on industrialization’s affect on art and culture, and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/booth-tarkington/the-magnificant-ambersons"&gt;The Magnificent Ambersons&lt;/a&gt;&lt;/i&gt; focuses on industry’s destruction of family and of small-town life, &lt;i&gt;National Avenue&lt;/i&gt; focuses on the men and women who actually bring that change about. Dan is portrayed sympathetically, but Tarkington makes it clear that his dreams and choices lead to a deeply unhappy family life and the ruination of the land around him. But can Dan really be faulted for his dream, or is industry inevitable, and inevitably destructive?&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/58870</dc:source>
 		<dc:source>https://books.google.com/books?id=MnI4AAAAMAAJ</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">103753</meta>
+		<meta property="se:reading-ease.flesch">71.14</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/booth-tarkington_national-avenue</meta>
 		<dc:creator id="author">Booth Tarkington</dc:creator>
 		<meta property="file-as" refines="#author">Tarkington, Booth</meta>
