@@ -52,7 +52,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/58870</dc:source>
 		<dc:source>https://books.google.com/books?id=MnI4AAAAMAAJ</dc:source>
-		<meta property="se:word-count">103753</meta>
+		<meta property="se:word-count">99773</meta>
 		<meta property="se:reading-ease.flesch">71.14</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/booth-tarkington_national-avenue</meta>
 		<dc:creator id="author">Booth Tarkington</dc:creator>
